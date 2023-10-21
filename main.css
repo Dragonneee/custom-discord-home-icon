@@ -44,7 +44,7 @@
 	--backgroundtertiary: 		10,10,10;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
 	--backgroundfloating: 		0,0,0;					/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
   
-  --home-icon: url('https://cdn.discordapp.com/attachments/1075738861566689280/1165304872590118993/discord.png?ex=65465dbb&is=6533e8bb&hm=a284b73dc49870c28d50fd718fb6b1f6a5aa5322dd6008306910674ea8155291&');
-  --home-position: center;
-  --home-size: 60px;
+  	--home-icon: url('https://cdn.discordapp.com/attachments/1075738861566689280/1165304872590118993/discord.png?ex=65465dbb&is=6533e8bb&hm=a284b73dc49870c28d50fd718fb6b1f6a5aa5322dd6008306910674ea8155291&');
+  	--home-position: center;
+  	--home-size: 60px;
 }
